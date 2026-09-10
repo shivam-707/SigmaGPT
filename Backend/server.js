@@ -42,7 +42,6 @@ const connectDB = async() => {
 //             }]
 //         })
 //     };
-
 //     try {
 //         const response = await fetch("https://api.openai.com/v1/chat/completions", options);
 //         const data = await response.json();
