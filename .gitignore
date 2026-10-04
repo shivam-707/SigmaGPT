@@ -1,2 +1,3 @@
 Backend/.env
 Backend/server.js
+Backend/atlas-credentials.env
